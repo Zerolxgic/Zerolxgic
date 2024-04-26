@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m currently working on ...Small learning exercises And projects.
+- 🔭 I’m currently working on ...Small learning exercises and projects.
 - 🌱 I’m currently learning ... Python,Machine learning and how to Implement AI in the workplace.
 - 👯 I’m looking to collaborate on ... Anything I can learn form.
 - 🤔 I’m looking for help with ... Understanding Python. Machine learning and AI. 
