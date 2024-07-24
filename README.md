@@ -31,104 +31,179 @@ With a background in maintenance, I have developed a keen eye for detail and a p
 
 #### Languages and Tools:
 
+<style>
+.hexagon {
+  position: relative;
+  width: 100px; 
+  height: 55px;
+  background-color: #333;
+  margin: 27.5px 0;
+  display: inline-block;
+}
+
+.hexagon:before,
+.hexagon:after {
+  content: "";
+  position: absolute;
+  width: 0;
+  border-left: 50px solid transparent;
+  border-right: 50px solid transparent;
+}
+
+.hexagon:before {
+  bottom: 100%;
+  border-bottom: 27.5px solid #333;
+}
+
+.hexagon:after {
+  top: 100%;
+  width: 0;
+  border-top: 27.5px solid #333;
+}
+
+.hexagon img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 48px;
+  height: 48px;
+}
+</style>
+
+## Skills
+
+### Languages and Tools:
+
 <table>
   <tr>
-    <td align="center" width="96" style="background-color: #545353; padding: 10px; border-radius: 8px;">
+    <td align="center" width="120">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="48" height="48" alt="JavaScript" />
+        <div class="hexagon">
+          <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" />
+        </div>
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="96" style="background-color: #545353; padding: 10px; border-radius: 8px;">
+    <td align="center" width="120">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="48" height="48" alt="HTML" />
+        <div class="hexagon">
+          <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" />
+        </div>
       </a>
       <br>HTML
     </td>
-    <td align="center" width="96" style="background-color: #545353; padding: 10px; border-radius: 8px;">
+    <td align="center" width="120">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="48" height="48" alt="CSS" />
+        <div class="hexagon">
+          <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" />
+        </div>
       </a>
       <br>CSS
     </td>
-    <td align="center" width="96" style="background-color: #545353; padding: 10px; border-radius: 8px;">
+    <td align="center" width="120">
       <a href="https://www.python.org/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="48" height="48" alt="Python" />
+        <div class="hexagon">
+          <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" />
+        </div>
       </a>
       <br>Python
     </td>
-    <td align="center" width="96" style="background-color: #545353; padding: 10px; border-radius: 8px;">
+    <td align="center" width="120">
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" width="48" height="48" alt="C#" />
+        <div class="hexagon">
+          <img src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" alt="C#" />
+        </div>
       </a>
       <br>C#
     </td>
   </tr>
   <tr>
-    <td align="center" width="96" style="background-color: #545353; padding: 10px; border-radius: 8px;">
+    <td align="center" width="120">
       <a href="https://reactjs.org/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="48" height="48" alt="React" />
+        <div class="hexagon">
+          <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" />
+        </div>
       </a>
       <br>React
     </td>
-    <td align="center" width="96" style="background-color: #545353; padding: 10px; border-radius: 8px;">
+    <td align="center" width="120">
       <a href="https://nodejs.org/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="48" height="48" alt="Node.js" />
+        <div class="hexagon">
+          <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" />
+        </div>
       </a>
       <br>Node.js
     </td>
-    <td align="center" width="96" style="background-color: #545353; padding: 10px; border-radius: 8px;">
+    <td align="center" width="120">
       <a href="https://dotnet.microsoft.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" width="48" height="48" alt=".NET" />
+        <div class="hexagon">
+          <img src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" alt=".NET" />
+        </div>
       </a>
       <br>.NET
     </td>
-    <td align="center" width="96" style="background-color: #545353; padding: 10px; border-radius: 8px;">
+    <td align="center" width="120">
       <a href="https://www.linux.org/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" width="48" height="48" alt="Linux" />
+        <div class="hexagon">
+          <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" alt="Linux" />
+        </div>
       </a>
       <br>Linux
     </td>
-    <td align="center" width="96" style="background-color: #545353; padding: 10px; border-radius: 8px;">
+    <td align="center" width="120">
       <a href="https://tailwindcss.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" width="48" height="48" alt="Tailwind CSS" />
+        <div class="hexagon">
+          <img src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" alt="Tailwind CSS" />
+        </div>
       </a>
       <br>Tailwind CSS
     </td>
   </tr>
   <tr>
-    <td align="center" width="96" style="background-color: #545353; padding: 10px; border-radius: 8px;">
+    <td align="center" width="120">
       <a href="https://www.microsoft.com/en-us/windows">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" width="48" height="48" alt="Windows" />
+        <div class="hexagon">
+          <img src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" alt="Windows" />
+        </div>
       </a>
       <br>Windows
     </td>
-    <td align="center" width="96" style="background-color: #545353; padding: 10px; border-radius: 8px;">
+    <td align="center" width="120">
       <a href="https://git-scm.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="48" height="48" alt="Git" />
+        <div class="hexagon">
+          <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git" />
+        </div>
       </a>
       <br>Git
     </td>
-    <td align="center" width="96" style="background-color: #545353; padding: 10px; border-radius: 8px;">
+    <td align="center" width="120">
       <a href="https://github.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width="48" height="48" alt="GitHub" />
+        <div class="hexagon">
+          <img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub" />
+        </div>
       </a>
       <br>GitHub
     </td>
-    <td align="center" width="96" style="background-color: #545353; padding: 10px; border-radius: 8px;">
+    <td align="center" width="120">
       <a href="https://code.visualstudio.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" width="48" height="48" alt="VS Code" />
+        <div class="hexagon">
+          <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" />
+        </div>
       </a>
       <br>VS Code
     </td>
-    <td align="center" width="96" style="background-color: #545353; padding: 10px; border-radius: 8px;">
+    <td align="center" width="120">
       <a href="https://docs.microsoft.com/en-us/windows/wsl/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/wsl/wsl.png" width="48" height="48" alt="WSL2" />
+        <div class="hexagon">
+          <img src="https://raw.githubusercontent.com/github/explore/master/topics/wsl/wsl.png" alt="WSL2" />
+        </div>
       </a>
       <br>WSL2
     </td>
   </tr>
 </table>
+
 
 
 
