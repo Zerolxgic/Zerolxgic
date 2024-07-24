@@ -31,27 +31,6 @@ With a background in maintenance, I have developed a keen eye for detail and a p
 
 #### Languages and Tools:
 
-
-## Skills
-
-### Languages and Tools:
-
-## Skills
-
-### Languages and Tools:
-
-## Skills
-
-### Languages and Tools:
-
-## Skills
-
-### Languages and Tools:
-
-## Skills
-
-### Languages and Tools:
-
 <table style="border-collapse: collapse;">
   <tr>
     <!-- Programming Languages -->
