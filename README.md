@@ -92,11 +92,6 @@ With a background in maintenance, I have developed a keen eye for detail and a p
       </a>
       <br>.NET
     </td>
-    <td align="center" width="80">
-      <a href="https://www.linux.org/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" width="40" height="40" alt="Linux" />
-      </a>
-      <br>Linux
     </td>
     <td align="center" width="80">
       <a href="https://tailwindcss.com/">
@@ -105,6 +100,11 @@ With a background in maintenance, I have developed a keen eye for detail and a p
       <br>Tailwind CSS
     </td>
   </tr>
+    <td align="center" width="80">
+      <a href="https://www.linux.org/">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" width="40" height="40" alt="Linux" />
+      </a>
+      <br>Linux
   <tr>
     <td align="center" width="80">
       <a href="https://www.microsoft.com/en-us/windows">
