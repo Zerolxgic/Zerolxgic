@@ -116,6 +116,8 @@ With a background in maintenance, I have developed a keen eye for detail and a p
       </a>
       <br>WSL2
     </td>
+  </td>
+ </tr>
   <tr>
     </td>
     <td align="center" width="80">
