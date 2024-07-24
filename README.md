@@ -207,6 +207,7 @@ With a background in maintenance, I have developed a keen eye for detail and a p
 
 
 
+
 ### Contact
 
 Feel free to reach out to me if you would like to collaborate or if you have any advice on improving my skills in data structures and algorithms.
