@@ -48,6 +48,10 @@ With a background in maintenance, I have developed a keen eye for detail and a p
 
 ### Languages and Tools:
 
+## Skills
+
+### Languages and Tools:
+
 <table style="border-collapse: collapse;">
   <tr>
     <!-- Programming Languages -->
@@ -108,6 +112,7 @@ With a background in maintenance, I have developed a keen eye for detail and a p
       </a>
       <br>Tailwind CSS
     </td>
+    <td align="center" width="80" style="border: none;"></td>
   </tr>
   <tr>
     <!-- Operating Systems -->
@@ -129,6 +134,8 @@ With a background in maintenance, I have developed a keen eye for detail and a p
       </a>
       <br>WSL2
     </td>
+    <td align="center" width="80" style="border: none;"></td>
+    <td align="center" width="80" style="border: none;"></td>
   </tr>
   <tr>
     <!-- Other Tools -->
@@ -150,9 +157,10 @@ With a background in maintenance, I have developed a keen eye for detail and a p
       </a>
       <br>VS Code
     </td>
+    <td align="center" width="80" style="border: none;"></td>
+    <td align="center" width="80" style="border: none;"></td>
   </tr>
 </table>
-
 
 ### Contact
 
