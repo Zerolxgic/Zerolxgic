@@ -68,8 +68,8 @@ With a background in maintenance, I have developed a keen eye for detail and a p
       <br>.NET
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" width="48" height="48" alt="Linux" />
-      <br>Linux
+      <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" width="48" height="48" alt="Linux" /> 
+      Linux
     </td>
   </tr>
   <tr>
