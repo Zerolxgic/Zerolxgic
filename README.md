@@ -40,7 +40,7 @@ With a background in maintenance, I have developed a keen eye for detail and a p
 
 ### Languages and Tools:
 
-<table>
+<table style="border-collapse: collapse;">
   <tr>
     <td align="center" width="80">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
