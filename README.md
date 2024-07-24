@@ -64,10 +64,6 @@ With a background in maintenance, I have developed a keen eye for detail and a p
       <br>Node.js
     </td>
     <td align="center" width="96">
-      <img src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
       <img src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" width="48" height="48" alt=".NET" />
       <br>.NET
     </td>
