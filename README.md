@@ -2,10 +2,11 @@
 
 **Michael Bacca** is a ✨ Maintenance Technician ✨
 
-- 🔭 I'm working on The Odin Project, freeCodeCamp, and some side projects.
-- 🌱 I'm currently learning HTML, CSS, JavaScript with a little Python and C#.
-- 🤝 I'm looking to collaborate on web design.
-- 🤔 I'm looking for help with Data structures and algorithms.
+- 🔭 I'm working on: The Odin Project, freeCodeCamp, and some side projects.
+- 🌱 I'm currently learning: HTML, CSS, JavaScript with a little Python and C#.
+- 🌱 What I want to learn: Rust, GO, Ruby. 
+- 🤝 I'm looking to collaborate on: web design.
+- 🤔 I'm looking for help with: Data structures and algorithms.
 
 ## About Me
 
@@ -17,7 +18,7 @@ With a background in maintenance, I have developed a keen eye for detail and a p
 
 ### Interests
 
-- **Web Development**: I enjoy building responsive and dynamic web applications using modern technologies like HTML, CSS, JavaScript, and various frameworks.
+- **Web Development: I enjoy building responsive and dynamic web applications using technologies like JavaScript frameworks (React, Vue.js, Node.js), CSS preprocessors (Tailwind CSS), and modern HTML5 and CSS3 standards.
 - **Game Design**: I love creating immersive experiences and interactive stories. I am particularly interested in 2D platformers and role-playing games.
 - **Automation**: I am fascinated by the potential of automation to improve efficiency and streamline processes.
 
