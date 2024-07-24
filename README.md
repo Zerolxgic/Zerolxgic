@@ -110,8 +110,25 @@ With a background in maintenance, I have developed a keen eye for detail and a p
       <br>Git
     </td>
     <td align="center" width="96">
-      <a href="https://github.c
-
+      <a href="https://github.com/">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width="48" height="48" alt="GitHub" />
+      </a>
+      <br>GitHub
+    </td>
+    <td align="center" width="96">
+      <a href="https://code.visualstudio.com/">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" width="48" height="48" alt="VS Code" />
+      </a>
+      <br>VS Code
+    </td>
+    <td align="center" width="96">
+      <a href="https://docs.microsoft.com/en-us/windows/wsl/">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/wsl/wsl.png" width="48" height="48" alt="WSL2" />
+      </a>
+      <br>WSL2
+    </td>
+  </tr>
+</table>
 
 
 ### Contact
