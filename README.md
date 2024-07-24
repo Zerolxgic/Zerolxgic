@@ -110,6 +110,11 @@ With a background in maintenance, I have developed a keen eye for detail and a p
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" width="40" height="40" alt="Windows" />
       </a>
       <br>Windows
+    <td align="center" width="80">
+      <a href="https://docs.microsoft.com/en-us/windows/wsl/">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/wsl/wsl.png" width="40" height="40" alt="WSL2" />
+      </a>
+      <br>WSL2
   <tr>
     </td>
     <td align="center" width="80">
@@ -130,11 +135,6 @@ With a background in maintenance, I have developed a keen eye for detail and a p
       </a>
       <br>VS Code
     </td>
-    <td align="center" width="80">
-      <a href="https://docs.microsoft.com/en-us/windows/wsl/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/wsl/wsl.png" width="40" height="40" alt="WSL2" />
-      </a>
-      <br>WSL2
     </td>
   </tr>
 </table>
