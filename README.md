@@ -31,45 +31,10 @@ With a background in maintenance, I have developed a keen eye for detail and a p
 
 #### Languages and Tools:
 
-<style>
-.hexagon {
-  position: relative;
-  width: 100px; 
-  height: 55px;
-  background-color: #333;
-  margin: 27.5px 0;
-  display: inline-block;
-}
 
-.hexagon:before,
-.hexagon:after {
-  content: "";
-  position: absolute;
-  width: 0;
-  border-left: 50px solid transparent;
-  border-right: 50px solid transparent;
-}
+## Skills
 
-.hexagon:before {
-  bottom: 100%;
-  border-bottom: 27.5px solid #333;
-}
-
-.hexagon:after {
-  top: 100%;
-  width: 0;
-  border-top: 27.5px solid #333;
-}
-
-.hexagon img {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  width: 48px;
-  height: 48px;
-}
-</style>
+### Languages and Tools:
 
 ## Skills
 
@@ -77,132 +42,103 @@ With a background in maintenance, I have developed a keen eye for detail and a p
 
 <table>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <div class="hexagon">
-          <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" alt="JavaScript" />
-        </div>
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="40" height="40" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <div class="hexagon">
-          <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" alt="HTML" />
-        </div>
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="40" height="40" alt="HTML" />
       </a>
       <br>HTML
     </td>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <div class="hexagon">
-          <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" alt="CSS" />
-        </div>
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="40" height="40" alt="CSS" />
       </a>
       <br>CSS
     </td>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="https://www.python.org/">
-        <div class="hexagon">
-          <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" />
-        </div>
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40" alt="Python" />
       </a>
       <br>Python
     </td>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-        <div class="hexagon">
-          <img src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" alt="C#" />
-        </div>
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" width="40" height="40" alt="C#" />
       </a>
       <br>C#
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="https://reactjs.org/">
-        <div class="hexagon">
-          <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" alt="React" />
-        </div>
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="40" height="40" alt="React" />
       </a>
       <br>React
     </td>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="https://nodejs.org/">
-        <div class="hexagon">
-          <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" alt="Node.js" />
-        </div>
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="40" height="40" alt="Node.js" />
       </a>
       <br>Node.js
     </td>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="https://dotnet.microsoft.com/">
-        <div class="hexagon">
-          <img src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" alt=".NET" />
-        </div>
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" width="40" height="40" alt=".NET" />
       </a>
       <br>.NET
     </td>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="https://www.linux.org/">
-        <div class="hexagon">
-          <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" alt="Linux" />
-        </div>
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" width="40" height="40" alt="Linux" />
       </a>
       <br>Linux
     </td>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="https://tailwindcss.com/">
-        <div class="hexagon">
-          <img src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" alt="Tailwind CSS" />
-        </div>
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" width="40" height="40" alt="Tailwind CSS" />
       </a>
       <br>Tailwind CSS
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="https://www.microsoft.com/en-us/windows">
-        <div class="hexagon">
-          <img src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" alt="Windows" />
-        </div>
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" width="40" height="40" alt="Windows" />
       </a>
       <br>Windows
     </td>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="https://git-scm.com/">
-        <div class="hexagon">
-          <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" alt="Git" />
-        </div>
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="40" height="40" alt="Git" />
       </a>
       <br>Git
     </td>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="https://github.com/">
-        <div class="hexagon">
-          <img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" alt="GitHub" />
-        </div>
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width="40" height="40" alt="GitHub" />
       </a>
       <br>GitHub
     </td>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="https://code.visualstudio.com/">
-        <div class="hexagon">
-          <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" />
-        </div>
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" alt="VS Code" />
       </a>
       <br>VS Code
     </td>
-    <td align="center" width="120">
+    <td align="center" width="80">
       <a href="https://docs.microsoft.com/en-us/windows/wsl/">
-        <div class="hexagon">
-          <img src="https://raw.githubusercontent.com/github/explore/master/topics/wsl/wsl.png" alt="WSL2" />
-        </div>
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/wsl/wsl.png" width="40" height="40" alt="WSL2" />
       </a>
       <br>WSL2
     </td>
   </tr>
 </table>
+
 
 
 
