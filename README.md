@@ -1,6 +1,6 @@
 # About me. 👋
 
-**Zerolgxic** is a ✨ Maintenance Technician ✨
+**Michael Bacca** is a ✨ Maintenance Technician ✨
 
 - 🔭 I'm working on The Odin Project, freeCodeCamp, and some side projects.
 - 🌱 I'm currently learning HTML, CSS, JavaScript with a little Python and C#.
