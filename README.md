@@ -105,12 +105,12 @@ With a background in maintenance, I have developed a keen eye for detail and a p
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" width="40" height="40" alt="Linux" />
       </a>
       <br>Linux
-  <tr>
     <td align="center" width="80">
       <a href="https://www.microsoft.com/en-us/windows">
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" width="40" height="40" alt="Windows" />
       </a>
       <br>Windows
+  <tr>
     </td>
     <td align="center" width="80">
       <a href="https://git-scm.com/">
