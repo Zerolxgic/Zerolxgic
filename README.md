@@ -44,8 +44,13 @@ With a background in maintenance, I have developed a keen eye for detail and a p
 
 ### Languages and Tools:
 
+## Skills
+
+### Languages and Tools:
+
 <table style="border-collapse: collapse;">
   <tr>
+    <!-- Programming Languages -->
     <td align="center" width="80" style="border: none;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="40" height="40" alt="JavaScript" />
@@ -78,6 +83,7 @@ With a background in maintenance, I have developed a keen eye for detail and a p
     </td>
   </tr>
   <tr>
+    <!-- Frameworks -->
     <td align="center" width="80" style="border: none;">
       <a href="https://reactjs.org/">
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="40" height="40" alt="React" />
@@ -97,12 +103,6 @@ With a background in maintenance, I have developed a keen eye for detail and a p
       <br>.NET
     </td>
     <td align="center" width="80" style="border: none;">
-      <a href="https://www.linux.org/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" width="40" height="40" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="80" style="border: none;">
       <a href="https://tailwindcss.com/">
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" width="40" height="40" alt="Tailwind CSS" />
       </a>
@@ -110,12 +110,28 @@ With a background in maintenance, I have developed a keen eye for detail and a p
     </td>
   </tr>
   <tr>
+    <!-- Operating Systems -->
+    <td align="center" width="80" style="border: none;">
+      <a href="https://www.linux.org/">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" width="40" height="40" alt="Linux" />
+      </a>
+      <br>Linux
+    </td>
     <td align="center" width="80" style="border: none;">
       <a href="https://www.microsoft.com/en-us/windows">
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" width="40" height="40" alt="Windows" />
       </a>
       <br>Windows
     </td>
+    <td align="center" width="80" style="border: none;">
+      <a href="https://docs.microsoft.com/en-us/windows/wsl/">
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/wsl/wsl.png" width="40" height="40" alt="WSL2" />
+      </a>
+      <br>WSL2
+    </td>
+  </tr>
+  <tr>
+    <!-- Other Tools -->
     <td align="center" width="80" style="border: none;">
       <a href="https://git-scm.com/">
         <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="40" height="40" alt="Git" />
@@ -134,19 +150,8 @@ With a background in maintenance, I have developed a keen eye for detail and a p
       </a>
       <br>VS Code
     </td>
-    <td align="center" width="80" style="border: none;">
-      <a href="https://docs.microsoft.com/en-us/windows/wsl/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/wsl/wsl.png" width="40" height="40" alt="WSL2" />
-      </a>
-      <br>WSL2
-    </td>
   </tr>
 </table>
-
-
-
-
-
 
 
 ### Contact
