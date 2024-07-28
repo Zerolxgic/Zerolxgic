@@ -146,7 +146,9 @@ With a background in maintenance, I have developed a keen eye for detail and a p
 ### Contact
 
 Feel free to reach out to me if you would like to collaborate or if you have any advice on improving my skills.
-- <img src="https://img.icons8.com/fluent/16/000000/twitter.png"/> [Zerolxgic](https://x.com/Zerolxgic)
+<a class="social-link" href="https://x.com/Zerolxgic">
+        <img src="https://img.icons8.com/fluent/16/000000/x.png" alt="X Logo"/> Zerolxgic
+    </a>
 - <img src="https://img.icons8.com/fluent/16/000000/gmail-new.png"/> [zerolgxic@gmail.com](mailto:zerolgxic@gmail.com)
 - <img src="https://img.icons8.com/fluent/16/000000/linkedin.png"/> [Michael Bacca](https://www.linkedin.com/in/michael-bacca/)
 
