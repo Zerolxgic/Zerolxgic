@@ -141,6 +141,8 @@ With a background in maintenance, I have developed a keen eye for detail and a p
   </tr>
 </table>
 
+### I hope to keep adding to this list
+
 ### Contact
 
 Feel free to reach out to me if you would like to collaborate or if you have any advice on improving my skills in data structures and algorithms.
