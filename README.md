@@ -27,7 +27,7 @@ With a background in maintenance, I have developed a keen eye for detail and a p
 - **Collaboration**: I am looking to collaborate with other developers on web design projects. I believe that teamwork and knowledge sharing are crucial for personal and professional growth.
 - **Learning**: I am actively seeking help with data structures and algorithms to strengthen my problem-solving skills and prepare for technical interviews.
 
-### Skills I'm learning
+### Skills I'm learning.
 
 #### Languages and Tools:
 
@@ -141,7 +141,7 @@ With a background in maintenance, I have developed a keen eye for detail and a p
   </tr>
 </table>
 
-### I hope to keep adding to this list
+### I hope to keep adding to this list.
 
 ### Contact
 
