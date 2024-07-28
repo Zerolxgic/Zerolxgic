@@ -1,12 +1,12 @@
-# About me. 👋
+# About me. 
 
-**Michael Bacca** is a ✨ Maintenance Technician ✨
+**Michael Bacca**
 
-- 🔭 I'm working on: The Odin Project, freeCodeCamp, and some side projects.
-- 🌱 I'm currently learning: HTML, CSS, JavaScript with a little Python and C#.
-- 🌱 What I want to learn: Rust, GO, Ruby. 
-- 🤝 I'm looking to collaborate on: web design.
-- 🤔 I'm looking for help with: Data structures and algorithms.
+-  I'm working on: The Odin Project, freeCodeCamp, and some side projects.
+-  I'm currently learning: HTML, CSS, JavaScript with a little Python and C#.
+-  What I want to learn: Rust, GO, Ruby. 
+-  I'm looking to collaborate on: web design.
+-  I'm looking for help with: Data structures and algorithms.
 
 ## About Me
 
