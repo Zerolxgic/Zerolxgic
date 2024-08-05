@@ -1,4 +1,4 @@
-Text me tomorrow # About me. 
+# About me. 
 
 **Michael Bacca**
 
