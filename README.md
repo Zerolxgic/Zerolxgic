@@ -1,4 +1,4 @@
-# About me. 
+Text me tomorrow # About me. 
 
 **Michael Bacca**
 
@@ -36,31 +36,31 @@ With a background in maintenance, I have developed a keen eye for detail and a p
     <!-- Programming Languages -->
     <td align="center" width="80" style="border: none;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="40" height="40" alt="JavaScript" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="20" height="20" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="80" style="border: none;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="40" height="40" alt="HTML" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="20" height="20" alt="HTML" />
       </a>
       <br>HTML
     </td>
     <td align="center" width="80" style="border: none;">
       <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="40" height="40" alt="CSS" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="20" height="20" alt="CSS" />
       </a>
       <br>CSS
     </td>
     <td align="center" width="80" style="border: none;">
       <a href="https://www.python.org/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="40" height="40" alt="Python" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="20" height="20" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="80" style="border: none;">
       <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" width="40" height="40" alt="C#" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" width="20" height="20" alt="C#" />
       </a>
       <br>C#
     </td>
@@ -69,25 +69,25 @@ With a background in maintenance, I have developed a keen eye for detail and a p
     <!-- Frameworks -->
     <td align="center" width="80" style="border: none;">
       <a href="https://reactjs.org/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="40" height="40" alt="React" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="20" height="20" alt="React" />
       </a>
       <br>React
     </td>
     <td align="center" width="80" style="border: none;">
       <a href="https://nodejs.org/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="40" height="40" alt="Node.js" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="20" height="20" alt="Node.js" />
       </a>
       <br>Node.js
     </td>
     <td align="center" width="80" style="border: none;">
       <a href="https://dotnet.microsoft.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" width="40" height="40" alt=".NET" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" width="20" height="20" alt=".NET" />
       </a>
       <br>.NET
     </td>
     <td align="center" width="80" style="border: none;">
       <a href="https://tailwindcss.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png" width="40" height="40" alt="Tailwind CSS" />
+        <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="20" height="20" alt="Tailwind CSS" />
       </a>
       <br>Tailwind CSS
     </td>
@@ -97,19 +97,19 @@ With a background in maintenance, I have developed a keen eye for detail and a p
     <!-- Operating Systems -->
     <td align="center" width="80" style="border: none;">
       <a href="https://www.linux.org/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" width="40" height="40" alt="Linux" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" width="20" height="20" alt="Linux" />
       </a>
       <br>Linux
     </td>
     <td align="center" width="80" style="border: none;">
       <a href="https://www.microsoft.com/en-us/windows">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" width="40" height="40" alt="Windows" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" width="20" height="20" alt="Windows" />
       </a>
       <br>Windows
     </td>
     <td align="center" width="80" style="border: none;">
       <a href="https://docs.microsoft.com/en-us/windows/wsl/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/wsl/wsl.png" width="40" height="40" alt="WSL2" />
+        <img src="https://img.icons8.com/?size=100&id=19292&format=png&color=000000" width="20" height="20" alt="WSL2" />
       </a>
       <br>WSL2
     </td>
@@ -120,19 +120,19 @@ With a background in maintenance, I have developed a keen eye for detail and a p
     <!-- Other Tools -->
     <td align="center" width="80" style="border: none;">
       <a href="https://git-scm.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="40" height="40" alt="Git" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="20" height="20" alt="Git" />
       </a>
       <br>Git
     </td>
     <td align="center" width="80" style="border: none;">
       <a href="https://github.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" width="40" height="40" alt="GitHub" />
+        <img src="https://img.icons8.com/?size=100&id=D5XsEXNbhkMI&format=png&color=000000" width="20" height="20" alt="GitHub" />
       </a>
       <br>GitHub
     </td>
     <td align="center" width="80" style="border: none;">
       <a href="https://code.visualstudio.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" width="40" height="40" alt="VS Code" />
+        <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" width="20" height="20" alt="VS Code" />
       </a>
       <br>VS Code
     </td>
@@ -146,9 +146,9 @@ With a background in maintenance, I have developed a keen eye for detail and a p
 ### Contact
 
 Feel free to reach out to me if you would like to collaborate or if you have any advice on improving my skills.
-- <img src="https://img.icons8.com/?size=16&id=6Fsj3rv2DCmG&format=png&color=000000" alt="X Logo" width="16" height="16"> [Zerolxgic](https://x.com/Zerolxgic)
-- <img src="https://img.icons8.com/?size=16&id=50855&format=png&color=000000" alt="Gmail Logo" width="16" height="16"> [zerolgxic@gmail.com](mailto:zerolgxic@gmail.com)
-- <img src="https://img.icons8.com/?size=16&id=44914&format=png&color=000000" alt="LinkedIn Logo" width="16" height="16"> [Michael Bacca](https://www.linkedin.com/in/michael-bacca/)
+- <img src="https://img.icons8.com/?size=100&id=95tjpz0WdSIQ&format=png&color=000000" alt="X Logo" width="16" height="16"> [Zerolxgic](https://x.com/Zerolxgic)
+- <img src="https://img.icons8.com/?size=100&id=37246&format=png&color=000000" alt="Gmail Logo" width="16" height="16"> [zerolgxic@gmail.com](mailto:zerolgxic@gmail.com)
+- <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn Logo" width="16" height="16"> [Michael Bacca](https://www.linkedin.com/in/michael-bacca/)
 
 ## License
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
