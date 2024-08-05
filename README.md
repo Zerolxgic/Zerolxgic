@@ -29,117 +29,25 @@ With a background in maintenance, I have developed a keen eye for detail and a p
 
 ### Skills I'm learning.
 
-#### Languages and Tools:
+## Languages and Tools:
+### Programming Languages ###
+|    |    |    |    |    |
+|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://img.icons8.com/?size=100&id=gYCTehfTlYk5&format=png&color=000000" width="25" height="25"> | <img src="https://img.icons8.com/?size=100&id=46605&format=png&color=000000" width="25" height="25"> | <img src="https://img.icons8.com/?size=100&id=107497&format=png&color=000000" width="25" height="25"> | <img src="https://img.icons8.com/?size=100&id=121464&format=png&color=000000" width="25" height="25"> | <img src="https://img.icons8.com/?size=100&id=m4XmoQpRVreA&format=png&color=000000" width="25" height="25"> |
+### Operating Systems
+|    |    |    |
+|:--:|:--:|:--:|
+| <img src="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" width="25" height="25"> | <img src="https://img.icons8.com/?size=100&id=fnVkZemUpHhW&format=png&color=000000" width="25" height="25"> | <img src="https://img.icons8.com/?size=100&id=w8vzomb1oP2W&format=png&color=000000" width="25" height="25"> |
+### Libraries, Frameworks & Tools
+|    |    |    |    |    |    |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="25" height="25"> | <img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="25" height="25"> | <img src="https://img.icons8.com/?size=100&id=WoopfRcDj3RF&format=png&color=000000" width="25" height="25"> | <img src="https://img.icons8.com/?size=100&id=TdNhZCWTM0rC&format=png&color=000000" width="25" height="25"> | <img src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000" width="25" height="25"> | <img src="https://img.icons8.com/?size=100&id=035lX6KoNhZf&format=png&color=000000" width="25" height="25"> |
 
-<table style="border-collapse: collapse;">
-  <tr>
-    <!-- Programming Languages -->
-    <td align="center" width="80" style="border: none;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" width="20" height="20" alt="JavaScript" />
-      </a>
-      <br>JavaScript
-    </td>
-    <td align="center" width="80" style="border: none;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png" width="20" height="20" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="80" style="border: none;">
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png" width="20" height="20" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="80" style="border: none;">
-      <a href="https://www.python.org/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" width="20" height="20" alt="Python" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="80" style="border: none;">
-      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/csharp/csharp.png" width="20" height="20" alt="C#" />
-      </a>
-      <br>C#
-    </td>
-  </tr>
-  <tr>
-    <!-- Frameworks -->
-    <td align="center" width="80" style="border: none;">
-      <a href="https://reactjs.org/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="20" height="20" alt="React" />
-      </a>
-      <br>React
-    </td>
-    <td align="center" width="80" style="border: none;">
-      <a href="https://nodejs.org/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" width="20" height="20" alt="Node.js" />
-      </a>
-      <br>Node.js
-    </td>
-    <td align="center" width="80" style="border: none;">
-      <a href="https://dotnet.microsoft.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/dotnet/dotnet.png" width="20" height="20" alt=".NET" />
-      </a>
-      <br>.NET
-    </td>
-    <td align="center" width="80" style="border: none;">
-      <a href="https://tailwindcss.com/">
-        <img src="https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000" width="20" height="20" alt="Tailwind CSS" />
-      </a>
-      <br>Tailwind CSS
-    </td>
-    <td align="center" width="80" style="border: none;"></td>
-  </tr>
-  <tr>
-    <!-- Operating Systems -->
-    <td align="center" width="80" style="border: none;">
-      <a href="https://www.linux.org/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" width="20" height="20" alt="Linux" />
-      </a>
-      <br>Linux
-    </td>
-    <td align="center" width="80" style="border: none;">
-      <a href="https://www.microsoft.com/en-us/windows">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/windows/windows.png" width="20" height="20" alt="Windows" />
-      </a>
-      <br>Windows
-    </td>
-    <td align="center" width="80" style="border: none;">
-      <a href="https://docs.microsoft.com/en-us/windows/wsl/">
-        <img src="https://img.icons8.com/?size=100&id=19292&format=png&color=000000" width="20" height="20" alt="WSL2" />
-      </a>
-      <br>WSL2
-    </td>
-    <td align="center" width="80" style="border: none;"></td>
-    <td align="center" width="80" style="border: none;"></td>
-  </tr>
-  <tr>
-    <!-- Other Tools -->
-    <td align="center" width="80" style="border: none;">
-      <a href="https://git-scm.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" width="20" height="20" alt="Git" />
-      </a>
-      <br>Git
-    </td>
-    <td align="center" width="80" style="border: none;">
-      <a href="https://github.com/">
-        <img src="https://img.icons8.com/?size=100&id=D5XsEXNbhkMI&format=png&color=000000" width="20" height="20" alt="GitHub" />
-      </a>
-      <br>GitHub
-    </td>
-    <td align="center" width="80" style="border: none;">
-      <a href="https://code.visualstudio.com/">
-        <img src="https://raw.githubusercontent.com/github/explore/master/topics/visual-studio-code/visual-studio-code.png" width="20" height="20" alt="VS Code" />
-      </a>
-      <br>VS Code
-    </td>
-    <td align="center" width="80" style="border: none;"></td>
-    <td align="center" width="80" style="border: none;"></td>
-  </tr>
-</table>
+JavaScript | HTML | CSS | Python | C#
+
+Linux | Windows | WSL2
+
+React | Node.js | Tailwind CSS | Git | GitHub | VS Code
 
 ### I hope to keep adding to this list.
 
