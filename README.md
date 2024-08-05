@@ -146,9 +146,9 @@ With a background in maintenance, I have developed a keen eye for detail and a p
 ### Contact
 
 Feel free to reach out to me if you would like to collaborate or if you have any advice on improving my skills.
-- ![X Logo](https://img.icons8.com/?size=100&id=6Fsj3rv2DCmG&format=png&color=000000)[Zerolxgic](https://x.com/Zerolxgic)
-- ![Gmail Logo](https://img.icons8.com/?size=100&id=50855&format=png&color=000000) [zerolgxic@gmail.com](mailto:zerolgxic@gmail.com)
-- ![LinkedIn Logo](https://img.icons8.com/?size=100&id=44914&format=png&color=000000) [Michael Bacca](https://www.linkedin.com/in/michael-bacca/)
+- <img src="https://img.icons8.com/?size=16&id=6Fsj3rv2DCmG&format=png&color=000000" alt="X Logo" width="16" height="16"> [Zerolxgic](https://x.com/Zerolxgic)
+- <img src="https://img.icons8.com/?size=16&id=50855&format=png&color=000000" alt="Gmail Logo" width="16" height="16"> [zerolgxic@gmail.com](mailto:zerolgxic@gmail.com)
+- <img src="https://img.icons8.com/?size=16&id=44914&format=png&color=000000" alt="LinkedIn Logo" width="16" height="16"> [Michael Bacca](https://www.linkedin.com/in/michael-bacca/)
 
 ## License
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
