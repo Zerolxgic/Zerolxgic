@@ -44,10 +44,10 @@ Linux | Windows | WSL2
 | [<img src="https://img.icons8.com/?size=100&id=104289&format=png&color=000000" width="25" height="25">](https://www.linux.org/) | [<img src="https://img.icons8.com/?size=100&id=fnVkZemUpHhW&format=png&color=000000" width="25" height="25">](https://www.microsoft.com/en-us/windows) | [<img src="https://img.icons8.com/?size=100&id=w8vzomb1oP2W&format=png&color=000000" width="25" height="25">](https://docs.microsoft.com/en-us/windows/wsl/) |
 
 ### Libraries, Frameworks & Tools ###
-React | Node.js | Tailwind CSS | Git | GitHub | VS Code
+React | Node.js | Bootstrap | Git | GitHub | VS Code
 |    |    |    |    |    |    |
 |:--:|:--:|:--:|:--:|:--:|:--:|
-| [<img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="25" height="25">](https://reactjs.org/docs/getting-started.html) | [<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="25" height="25">](https://nodejs.org/en/docs/) | [<img src="https://img.icons8.com/?size=100&id=WoopfRcDj3RF&format=png&color=000000" width="25" height="25">](https://tailwindcss.com/docs) | [<img src="https://img.icons8.com/?size=100&id=TdNhZCWTM0rC&format=png&color=000000" width="25" height="25">](https://git-scm.com/doc) | [<img src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000" width="25" height="25">](https://docs.github.com/en) | [<img src="https://img.icons8.com/?size=100&id=035lX6KoNhZf&format=png&color=000000" width="25" height="25">](https://code.visualstudio.com/docs) |
+| [<img src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" width="25" height="25">](https://reactjs.org/docs/getting-started.html) | [<img src="https://img.icons8.com/?size=100&id=hsPbhkOH4FMe&format=png&color=000000" width="25" height="25">](https://nodejs.org/en/docs/) | [<img src="https://img.icons8.com/?size=100&id=g9mmSxx3SwAI&format=png&color=000000" width="25" height="25">](https://getbootstrap.com/docs/5.3/getting-started/introduction/) | [<img src="https://img.icons8.com/?size=100&id=TdNhZCWTM0rC&format=png&color=000000" width="25" height="25">](https://git-scm.com/doc) | [<img src="https://img.icons8.com/?size=100&id=46565&format=png&color=000000" width="25" height="25">](https://docs.github.com/en) | [<img src="https://img.icons8.com/?size=100&id=035lX6KoNhZf&format=png&color=000000" width="25" height="25">](https://code.visualstudio.com/docs) |
 
 
 
