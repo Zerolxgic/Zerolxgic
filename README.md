@@ -19,7 +19,9 @@ With a background in maintenance, I’ve developed a sharp attention to detail a
 ### Interests
 
 - **Web Development**: I enjoy building responsive and dynamic web applications using technologies like JavaScript frameworks, CSS preprocessors, and modern HTML5 and CSS3 standards.
+  
 - **Game Design**: Creating immersive experiences and interactive stories is a passion of mine. I’m particularly drawn to 2D platformers and role-playing games where creativity meets technical challenges.
+  
 - **Automation**: I’m fascinated by the potential of automation to streamline processes and improve efficiency, making complex tasks more manageable and systems more reliable.
 
 ### Goals
