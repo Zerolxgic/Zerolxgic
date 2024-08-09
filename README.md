@@ -24,8 +24,13 @@ With a background in maintenance, I have developed a keen eye for detail and a p
 
 ### Goals
 
-- **Collaboration**: I am looking to collaborate with other developers on web design projects. I believe that teamwork and knowledge sharing are crucial for personal and professional growth.
-- **Learning**: I am actively seeking help with data structures and algorithms to strengthen my problem-solving skills and prepare for technical interviews.
+- **Collaboration**: I am eager to collaborate with other developers on web design projects, particularly those that challenge and expand my current skill set. I value teamwork and believe that knowledge sharing is essential for both personal and professional growth. By working closely with others, I hope to gain new perspectives, learn best practices, and contribute meaningfully to innovative projects.
+ 
+- **Learning**: I am actively seeking guidance and resources to improve my understanding of data structures and algorithms. Strengthening these skills is a key focus for me as I prepare for technical interviews and strive to enhance my problem-solving abilities. I am open to mentorship, peer study groups, and practical projects that will help me master these critical concepts and apply them effectively in real-world scenarios.
+  
+### Personal life
+- I’m balancing my full-time job as a maintenance technician with being a husband and father to five daughters, all while teaching myself computer science and web development, amongst other hobbies.
+
 
 ### Skills I'm learning.
 
