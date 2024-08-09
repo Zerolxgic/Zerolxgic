@@ -5,12 +5,12 @@
 -  I'm working on: The Odin Project, freeCodeCamp, and some side projects.
 -  I'm currently learning: HTML, CSS, JavaScript with a little Python and C#.
 -  What I want to learn: Rust, GO, Ruby. 
--  I'm looking to collaborate on: web design.
+-  I'm looking to collaborate on: web development, 2d games.
 -  I'm looking for help with: Data structures and algorithms.
 
 ## About Me
 
-Hello! My name is Michael Bacca, and I am a Maintenance Technician with a strong passion for web development, game design, and automation. I am currently on a journey to expand my skill set and transition into the tech industry.
+I'm a Maintenance Technician with a strong passion for web development, game design, and automation. I'm currently on a journey to expand my skill set and make the transition into the tech industry.
 
 ### Professional Background
 
@@ -18,9 +18,9 @@ With a background in maintenance, I’ve developed a sharp attention to detail a
 
 ### Interests
 
-- **Web Development**: I enjoy building responsive and dynamic web applications using technologies like JavaScript frameworks (React, Vue.js, Node.js), CSS preprocessors (Tailwind CSS), and modern HTML5 and CSS3 standards.
-- **Game Design**: I love creating immersive experiences and interactive stories. I am particularly interested in 2D platformers and role-playing games.
-- **Automation**: I am fascinated by the potential of automation to improve efficiency and streamline processes.
+- **Web Development**: I enjoy building responsive and dynamic web applications using technologies like JavaScript frameworks, CSS preprocessors, and modern HTML5 and CSS3 standards.
+- **Game Design**: Creating immersive experiences and interactive stories is a passion of mine. I’m particularly drawn to 2D platformers and role-playing games where creativity meets technical challenges.
+- **Automation**: I’m fascinated by the potential of automation to streamline processes and improve efficiency, making complex tasks more manageable and systems more reliable.
 
 ### Goals
 
@@ -29,7 +29,7 @@ With a background in maintenance, I’ve developed a sharp attention to detail a
 - **Learning**: I am actively seeking guidance and resources to improve my understanding of data structures and algorithms. Strengthening these skills is a key focus for me as I prepare for technical interviews and strive to enhance my problem-solving abilities. I am open to mentorship, peer study groups, and practical projects that will help me master these critical concepts and apply them effectively in real-world scenarios.
   
 ### Personal life
-- I’m balancing my full-time job as a maintenance technician with being a husband and father to five daughters, all while teaching myself computer science and web development, amongst other hobbies.
+- Balancing my full-time job as a maintenance technician with being a husband and father to five daughters is no small feat, but it’s a challenge I embrace daily. On top of that, I’m self-teaching computer science and web development, driven by a love for learning and a desire to build a better future for my family.
 
 
 ### Skills I'm learning.
