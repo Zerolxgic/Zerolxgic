@@ -14,7 +14,7 @@ Hello! My name is Michael Bacca, and I am a Maintenance Technician with a strong
 
 ### Professional Background
 
-With a background in maintenance, I have developed a keen eye for detail and a problem-solving mindset. My experience in this field has taught me the importance of precision, patience, and continuous learning.
+With a background in maintenance, I’ve developed a sharp attention to detail and a strong problem-solving mindset. My hands-on experience has taught me the critical importance of precision, whether it's diagnosing a complex issue or ensuring that machinery operates smoothly. Patience has been key in troubleshooting challenging problems, while continuous learning has kept me adaptable in a field where technology and techniques are always evolving. These skills have not only made me effective in my current role but have also laid a solid foundation as I transition into the tech industry.
 
 ### Interests
 
