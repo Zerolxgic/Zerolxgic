@@ -38,7 +38,7 @@ With a background in maintenance, I’ve developed a sharp attention to detail a
 
 ## Languages and Tools:
 
-### Programming Languages ###
+### Programming & Markup Languages ###
 JavaScript | HTML | CSS | Python | C#
 |    |    |    |    |    |
 |:--:|:--:|:--:|:--:|:--:|
