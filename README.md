@@ -3,7 +3,7 @@
 **Michael Bacca**
 
 -  I'm working on: The Odin Project, freeCodeCamp, and some side projects.
--  I'm currently learning: HTML, CSS, JavaScript with a little Python and C#.
+-  I'm currently learning: HTML, CSS, PHP, JavaScript with a little Python and C#.
 -  What I want to learn: Rust, GO, Ruby. 
 -  I'm looking to collaborate on: web development, 2d games.
 -  I'm looking for help with: Data structures and algorithms.
