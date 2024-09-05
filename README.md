@@ -39,11 +39,10 @@ With a background in maintenance, I’ve developed a sharp attention to detail a
 ## Languages and Tools:
 
 ### Programming & Markup Languages ###
-JavaScript | HTML | CSS | Python | C# | Markdown
-|    |    |    |    |    |    |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| [<img src="https://img.icons8.com/?size=100&id=gYCTehfTlYk5&format=png&color=000000" width="25" height="25">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://img.icons8.com/?size=100&id=46605&format=png&color=000000" width="25" height="25">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://img.icons8.com/?size=100&id=107497&format=png&color=000000" width="25" height="25">](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://img.icons8.com/?size=100&id=121464&format=png&color=000000" width="25" height="25">](https://www.python.org/doc/) | [<img src="https://img.icons8.com/?size=100&id=m4XmoQpRVreA&format=png&color=000000" width="25" height="25">](https://docs.microsoft.com/en-us/dotnet/csharp/) | [<img src="https://img.icons8.com/?size=100&id=55044&format=png&color=000000" width="25" height="25">](https://www.markdownguide.org/) |
-
+JavaScript | HTML | CSS | Python | C# | Markdown| PHP |
+|    |    |    |    |    |    |    |
+|:--:|:--:|:--:|:--:|:--:|:--:|:--:|
+| [<img src="https://img.icons8.com/?size=100&id=gYCTehfTlYk5&format=png&color=000000" width="25" height="25">](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [<img src="https://img.icons8.com/?size=100&id=46605&format=png&color=000000" width="25" height="25">](https://developer.mozilla.org/en-US/docs/Web/HTML) | [<img src="https://img.icons8.com/?size=100&id=107497&format=png&color=000000" width="25" height="25">](https://developer.mozilla.org/en-US/docs/Web/CSS) | [<img src="https://img.icons8.com/?size=100&id=121464&format=png&color=000000" width="25" height="25">](https://www.python.org/doc/) | [<img src="https://img.icons8.com/?size=100&id=m4XmoQpRVreA&format=png&color=000000" width="25" height="25">](https://docs.microsoft.com/en-us/dotnet/csharp/) | [<img src="https://img.icons8.com/?size=100&id=55044&format=png&color=000000" width="25" height="25">](https://www.markdownguide.org/) | [<img src="https://img.icons8.com/?size=100&id=55095&format=png&color=000000" width="25" height="25">](https://www.php.net/) |
 ### Operating Systems ###
 Linux | Windows | WSL2
 |    |    |    |
