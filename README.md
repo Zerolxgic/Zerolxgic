@@ -1,6 +1,6 @@
 # About me
 
-**Zerrius** (Michael Bacca)
+**Zerrius**
 
 Self taught dev in progress. I build things, break things, rebuild them slightly better. Still broken. The loop continues.
 
