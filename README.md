@@ -1,30 +1,28 @@
-# About me
+# Zerrius
 
-**Zerrius**
+Builder focused on AI-driven systems, agent orchestration, and game development tooling.
 
-Self taught dev in progress. I build things, break things, rebuild them slightly better. Still broken. The loop continues.
+I explore how intelligent agents, structured memory, and workflow automation can transform the way solo developers design and build games. My current work centers around PRISM, a cognitive framework for orchestrating AI agents, managing long-term knowledge, and accelerating creative development.
+
+## What I Work On
+
+- Multi-agent AI architectures and orchestration workflows  
+- Knowledge systems combining graph, vector, and temporal memory  
+- Developer tools for AI-assisted game creation  
+- Experimental pipelines that connect research → prototype → playable systems  
 
 ## Current Focus
-- Game dev systems and prototypes (Unity / Godot)
-- Modding and plugin style projects
-- Learning tooling, Git, and better workflows
-- Small projects that actually ship (even tiny ones)
 
-## Interests
-- Game mechanics and progression systems
-- Survival systems (buffs, hunger, thirst, leveling)
-- Automation and quality of life tools
-- Terminal stuff and clean setups
+Designing practical AI systems that move beyond demos and become real creative infrastructure for builders and game developers.
 
-## Learning Right Now
-- C# (Unity)
-- Java (plugins/modding)
-- A little Python when it helps
+## Philosophy
 
-## Looking For
-- Beginner friendly collaborations (game dev, tools, plugins)
-- Help getting better at code structure and architecture
-- People who like building and learning in public
+I believe the future of development is not just writing code, but designing intelligence that collaborates with us.  
+My goal is to help shape tools where imagination, systems thinking, and AI meet.
+
+---
+
+Always learning. Always building. Always curious.
 
 ## Status
 🚧 Under construction. Everything here is a work in progress.
