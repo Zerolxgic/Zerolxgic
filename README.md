@@ -10,6 +10,8 @@ I explore how intelligent agents, structured memory, and workflow automation can
 - Knowledge systems combining graph, vector, and temporal memory  
 - Developer tools for AI-assisted game creation  
 - Experimental pipelines that connect research → prototype → playable systems  
+- Implementing temporal knowledge graphs and stateful agentic loops to solve the 'AI amnesia' problem.
+
 
 ## Current Focus
 
@@ -17,7 +19,8 @@ Designing practical AI systems that move beyond demos and become real creative i
 
 ## Philosophy
 
-I believe the future of development is not just writing code, but designing intelligence that collaborates with us.  
+I believe the future of development is not just writing code, but designing intelligence Human-in-the-Loop orchestration.
+
 My goal is to help shape tools where imagination, systems thinking, and AI meet.
 
 ---
