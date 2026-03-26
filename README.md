@@ -1,37 +1,41 @@
 # Zerrius
 
-Builder focused on AI-driven systems, agent orchestration, and game development tooling.
+Self-taught builder working on human-governed AI systems, structured workflows, and artifact-backed state.
 
-I explore how intelligent agents, structured memory, and workflow automation can transform the way solo developers design and build games. My current work centers around PRISM, a cognitive framework for orchestrating AI agents, managing long-term knowledge, and accelerating creative development.
+My work focuses on building systems that keep memory, continuity, and control outside the model instead of hiding them inside chat history or black-box behavior. I am especially interested in how solo builders can use AI without giving up truth, boundaries, or operator control.
 
 ## What I Work On
 
-- Multi-agent AI architectures and orchestration workflows  
-- Knowledge systems combining graph, vector, and temporal memory  
-- Developer tools for AI-assisted game creation  
-- Experimental pipelines that connect research → prototype → playable systems  
-- Implementing temporal knowledge graphs and stateful agentic loops to solve the 'AI amnesia' problem.
-
+- Human-governed AI systems
+- Artifact-backed memory and deterministic context workflows
+- Agent orchestration with explicit boundaries and truth surfaces
+- Practical builder workflows for scoped execution, audit, and rehydration
+- Experimental local-first systems designed for continuity across sessions
 
 ## Current Focus
 
-Designing practical AI systems that move beyond demos and become real creative infrastructure for builders and game developers.
+Right now I am building Addison, a local daemon-backed state system that uses persistent artifacts as its source of truth and treats model inference as a stateless tool rather than as the system itself.
+
+I am also developing WBTSR, a human-governed build method centered on bounded work, explicit truth, separate builder/auditor roles, and restart-safe carry-forward between sessions.
 
 ## Philosophy
 
-I believe the future of development is not just writing code, but designing intelligence Human-in-the-Loop orchestration.
+I do not think the future is just “AI that can do more.”
 
-My goal is to help shape tools where imagination, systems thinking, and AI meet.
+I think the real challenge is building systems that can stay truthful, inspectable, and governable while still being useful.
 
----
-
-Always learning. Always building. Always curious.
+That means:
+- human authority stays explicit
+- proposals are not execution
+- continuity lives in artifacts, not session haze
+- progress is earned through bounded, verifiable work
 
 ## Status
-🚧 Under construction. Everything here is a work in progress.
+
+Under construction. Real systems, active experiments, and evolving public documentation.
 
 ## Contact
-- X: [Zerolxgic](https://x.com/Zerrius_NQL)
 
+- X: [Zerolxgic](https://x.com/Zerrius_NQL)
 
 
