@@ -1,51 +1,111 @@
 # Zerrius (Michael)
 
-Self-taught builder working on human-governed AI systems, structured workflows, and artifact-backed state.
+**Facilities maintenance by trade. Self-taught builder by curiosity.**
 
-I build systems that keep memory, continuity, and control outside the model so AI can be used without surrendering truth, boundaries, or operator authority.
+I’m not a conventional developer, and I didn’t take a conventional path into software.
 
-## Current Focus
+I build things because building is how I learn.
 
-I’m currently building **Addison**, a local daemon-backed state system, and **WBTSR**, a human-governed workflow for building with agents through bounded work, explicit truth surfaces, separate builder/auditor roles, and restart-safe rehydration.
+Most of what I know has come from finding a question I couldn't leave alone, trying to make something around it, discovering everything I didn't understand, and following that trail until I understood a little more.
 
-## What I Work On
+Sometimes that produces useful software.
 
-- Human-governed AI systems
-- Artifact-backed memory and deterministic context workflows
-- Agent orchestration with explicit boundaries
-- Practical builder workflows for scoped execution, audit, and rehydration
-- Local-first systems designed for continuity across sessions
+Sometimes it produces an experiment that teaches me why an idea doesn't work.
 
-## Philosophy
+Both count.
 
-I care less about hype and more about building systems that are truthful, inspectable, and governable.
+## I Like Building Unusual Things
 
-That means:
+My projects tend to wander around the edges of:
 
-- human authority stays explicit
-- proposals are not execution
-- continuity lives in artifacts, not session haze
-- progress is earned through bounded, verifiable work
+* AI systems and agent workflows
+* persistent memory and continuity
+* local-first software
+* human control and system authority
+* persistent characters and human-computer interaction
+* tools for building with AI without handing the whole process over to it
 
-## Public Surface
+I’m especially interested in places where the technical question eventually becomes a human one.
 
-This repository contains private development and system-level work.
+Who owns the memory?
 
-A limited, public-facing view of the project is available at:
+Where does authority live?
 
-- NQL Systems (organization): <https://github.com/NQL-Systems/>
-- Website: <https://zerolxgic.github.io/>
+What should remain deterministic?
 
-Public surfaces are intentionally partial and do not reflect the full internal system.
+What happens when the model changes?
 
-## Status
+How do we know what is actually true about the system we're building?
 
-Under construction. Real systems, active experiments, evolving public surfaces.
+Those questions have led me into some strange places. I like that.
+
+## What I'm Building
+
+A few of the things currently occupying my brain:
+
+**Addison**
+An evolving exploration of operator-owned continuity, memory, and state for working with AI systems.
+
+**Veyra**
+A persistent character runtime exploring the boundary between cognition, continuity, portrayal, and embodiment.
+
+**WBTSR**
+A human-governed way of building with AI agents through bounded work, explicit project truth, verification, and rehydration.
+
+There are smaller experiments too. Some will become real projects. Some will teach me something and disappear.
+
+That's part of the process.
+
+## Why I Build
+
+I used to put more pressure on my work to become an opportunity.
+
+I'm trying to think about it differently.
+
+**I build to learn.**
+
+If something I make eventually creates an opportunity, finds users, helps somebody, or turns into something larger, that's great.
+
+But it doesn't have to.
+
+The work has already changed the way I understand software, systems, AI, and my own ability to learn difficult things.
+
+I'm interested in continuing that process and becoming capable of doing unusual things.
+
+## How I Work
+
+I use AI heavily in my development process, but I don't believe using AI means giving up human judgment or responsibility.
+
+I try to:
+
+* understand what I'm building rather than only produce it
+* keep important decisions and system truth inspectable
+* separate proposals from authorized actions
+* document failures and direction changes instead of hiding them
+* change my mind when the evidence earns it
+* leave myself able to understand the project when I return later
+
+I'm still learning.
+
+That's not a disclaimer. That's the point.
+
+## Around Here
+
+This GitHub is less a portfolio than a trail of things I'm learning to build.
+
+Some repositories are polished enough to share.
+
+Some are experiments.
+
+Some are snapshots of ideas that have already evolved beyond them.
+
+If something here is useful or interesting to you, feel free to explore.
 
 ## Links
 
-- Website: `https://zerolxgic.github.io/`
-- X: [Zerolxgic](https://x.com/Zerrius_NQL)
+* **NQL Systems:** https://github.com/NQL-Systems/
+* **Website:** https://zerolxgic.github.io/
+* **X:** https://x.com/ZerriusVale
 
 
 
