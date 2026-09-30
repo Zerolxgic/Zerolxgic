@@ -95,22 +95,6 @@ The point is mostly that I don't expect every model to be good at everything.
 
 ## Current Projects
 
-<p>
-  <a href="https://github.com/Zerolxgic/ZOMAH">
-    <img width="400" src="./profile/cards/zomah.svg" alt="ZOMAH">
-  </a>
-
-  <a href="https://github.com/Zerolxgic/laya-decision-benchmark">
-    <img width="400" src="./profile/cards/laya-decision-benchmark.svg" alt="Laya Decision Benchmark">
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/Zerolxgic/Omarchy-Talks">
-    <img width="400" src="./profile/cards/omarchy-talks.svg" alt="Omarchy Talks">
-  </a>
-</p>
-
 ---
 
 ## Where I Came From
