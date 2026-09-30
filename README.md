@@ -95,8 +95,6 @@ The point is mostly that I don't expect every model to be good at everything.
 
 ## Current Projects
 
-## Current Projects
-
 <p>
   <a href="https://github.com/Zerolxgic/ZOMAH">
     <img
