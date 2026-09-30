@@ -97,28 +97,17 @@ The point is mostly that I don't expect every model to be good at everything.
 
 <p>
   <a href="https://github.com/Zerolxgic/ZOMAH">
-    <img
-      width="400"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Zerolxgic&repo=ZOMAH&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&border_color=504945&border_radius=8&description_lines_count=2"
-      alt="ZOMAH"
-    />
+    <img width="400" src="./profile/cards/zomah.svg" alt="ZOMAH">
   </a>
+
   <a href="https://github.com/Zerolxgic/laya-decision-benchmark">
-    <img
-      width="400"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Zerolxgic&repo=laya-decision-benchmark&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&border_color=504945&border_radius=8&description_lines_count=2"
-      alt="Laya Decision Benchmark"
-    />
+    <img width="400" src="./profile/cards/laya-decision-benchmark.svg" alt="Laya Decision Benchmark">
   </a>
 </p>
 
 <p>
   <a href="https://github.com/Zerolxgic/Omarchy-Talks">
-    <img
-      width="400"
-      src="https://github-readme-stats.vercel.app/api/pin/?username=Zerolxgic&repo=Omarchy-Talks&bg_color=282828&title_color=fabd2f&text_color=ebdbb2&icon_color=fe8019&border_color=504945&border_radius=8&description_lines_count=2"
-      alt="Omarchy Talks"
-    />
+    <img width="400" src="./profile/cards/omarchy-talks.svg" alt="Omarchy Talks">
   </a>
 </p>
 
