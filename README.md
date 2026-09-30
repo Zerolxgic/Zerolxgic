@@ -56,11 +56,6 @@ A lot of what I can build today is possible because I can work with models that 
 
 At the same time, I don't want to spend all day babysitting agents and approving every tiny action.
 
-The phrase I've started using is:
-
-> **I don't want to be the human in the loop.  
-> I want to be the human on the loop.**
-
 I want enough visibility and control that I can understand what the system is doing, change direction when I need to, and know what happened when something goes wrong.
 
 Beyond that, I want the system to be capable of actually doing work.
