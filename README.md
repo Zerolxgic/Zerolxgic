@@ -98,45 +98,13 @@ The point is mostly that I don't expect every model to be good at everything.
 
 ---
 
-## Things I'm Building
+## Current Projects
 
-### ZOMAH
+[ZOMAH](https://github.com/Zerolxgic/ZOMAH)
 
-**Zerrius's Obviously Minimal Agent Harness**
+[Laya Decision Benchmark](https://github.com/Zerolxgic/laya-decision-benchmark)
 
-The name started as a joke.
-
-The project did not stay quite as minimal.
-
-ZOMAH is where a lot of my ideas around agents, local models, state, tools, retrieval, authority, and deterministic boundaries are starting to meet.
-
-The goal is to give capable AI workers useful freedom while keeping important system truth and authority somewhere more reliable than the model's context window.
-
-[Explore ZOMAH](https://github.com/Zerolxgic/ZOMAH)
-
----
-
-### Laya Decision Benchmark
-
-This was one of the first private experiments I decided to clean up and put out publicly.
-
-I tested the open-weight Laya decision model through several rounds of benchmarks, holdouts, polarity tests, distribution shifts, and eventually real agent-system inputs.
-
-The failures ended up teaching me more than the good scores did.
-
-As the tests got closer to the real system, the model's weaknesses became much easier to see, and that helped me figure out where it was actually useful.
-
-The repo also documents how ChatGPT and I worked on the research together instead of hiding the AI side of it.
-
-[Explore the Laya Decision Benchmark](https://github.com/Zerolxgic/laya-decision-benchmark)
-
----
-
-### Omarchy Talks
-
-A collection of experiments around Linux, local AI, tooling, and learning how my own machine works instead of treating it like a black box.
-
-[Explore Omarchy Talks](https://github.com/Zerolxgic/Omarchy-Talks)
+[Omarchy Talks](https://github.com/Zerolxgic/Omarchy-Talks)
 
 ---
 
