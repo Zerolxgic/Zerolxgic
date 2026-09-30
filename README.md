@@ -1,111 +1,217 @@
-# Zerrius (Michael)
+# Hey, I'm Zerrius.
 
-**Facilities maintenance by trade. Self-taught builder by curiosity.**
+**Facilities maintenance by trade. Self-taught AI systems builder by curiosity.**
 
-I’m not a conventional developer, and I didn’t take a conventional path into software.
+I didn't come into this through computer science or a software career.
 
-I build things because building is how I learn.
+I came into it by building things.
 
-Most of what I know has come from finding a question I couldn't leave alone, trying to make something around it, discovering everything I didn't understand, and following that trail until I understood a little more.
+Usually I find something I want to understand, start messing with it, break something, figure out why it broke, and keep following the thread until I'm several layers deeper than where I started.
 
-Sometimes that produces useful software.
+AI sped that process up a lot.
 
-Sometimes it produces an experiment that teaches me why an idea doesn't work.
+A few years ago I was mostly trying to understand what these models could do. Now I spend a ridiculous amount of my free time working on agent systems, local models, orchestration, evaluation, memory, retrieval, and the software underneath all of it.
 
-Both count.
+I didn't sit down one day and decide to become an AI systems builder.
 
-## I Like Building Unusual Things
+I just kept following interesting problems.
 
-My projects tend to wander around the edges of:
+Eventually I looked around and realized I was building systems.
 
-* AI systems and agent workflows
-* persistent memory and continuity
-* local-first software
-* human control and system authority
-* persistent characters and human-computer interaction
-* tools for building with AI without handing the whole process over to it
+So that's what I'm calling it.
 
-I’m especially interested in places where the technical question eventually becomes a human one.
+---
 
-Who owns the memory?
+## What I'm Working On
 
-Where does authority live?
+Most of my projects end up somewhere around:
 
-What should remain deterministic?
+- agent systems and orchestration
+- local-first AI
+- memory, retrieval, and persistent state
+- evaluation and small decision models
+- deterministic infrastructure underneath model-driven systems
 
-What happens when the model changes?
+One question keeps coming back:
 
-How do we know what is actually true about the system we're building?
+> **What should the model decide, and what should the system already know?**
 
-Those questions have led me into some strange places. I like that.
+That has become a pretty useful way for me to think about things.
 
-## What I'm Building
+If the machine already knows something exactly, I'd rather let normal software handle it.
 
-A few of the things currently occupying my brain:
+Models are much more interesting to me when the answer is fuzzy, contextual, semantic, or hard to turn into a clean rule.
 
-**Addison**
-An evolving exploration of operator-owned continuity, memory, and state for working with AI systems.
+A lot of what I'm doing now is figuring out where that line actually belongs.
 
-**Veyra**
-A persistent character runtime exploring the boundary between cognition, continuity, portrayal, and embodiment.
+---
 
-**WBTSR**
-A human-governed way of building with AI agents through bounded work, explicit project truth, verification, and rehydration.
+## Human on the Loop
 
-There are smaller experiments too. Some will become real projects. Some will teach me something and disappear.
+I use AI heavily.
 
-That's part of the process.
+There really isn't any point pretending otherwise.
 
-## Why I Build
+A lot of what I can build today is possible because I can work with models that help me research, reason through problems, write code, inspect systems, and explain things I don't understand yet.
 
-I used to put more pressure on my work to become an opportunity.
+At the same time, I don't want to spend all day babysitting agents and approving every tiny action.
 
-I'm trying to think about it differently.
+The phrase I've started using is:
 
-**I build to learn.**
+> **I don't want to be the human in the loop.  
+> I want to be the human on the loop.**
 
-If something I make eventually creates an opportunity, finds users, helps somebody, or turns into something larger, that's great.
+I want enough visibility and control that I can understand what the system is doing, change direction when I need to, and know what happened when something goes wrong.
 
-But it doesn't have to.
+Beyond that, I want the system to be capable of actually doing work.
 
-The work has already changed the way I understand software, systems, AI, and my own ability to learn difficult things.
+I'm still figuring out what that balance looks like.
 
-I'm interested in continuing that process and becoming capable of doing unusual things.
+---
 
-## How I Work
+## How I Work With AI
 
-I use AI heavily in my development process, but I don't believe using AI means giving up human judgment or responsibility.
+It's not really one chatbot doing everything anymore.
 
-I try to:
+Different models end up being useful for different parts of the work, and those roles move around depending on what we're doing.
 
-* understand what I'm building rather than only produce it
-* keep important decisions and system truth inspectable
-* separate proposals from authorized actions
-* document failures and direction changes instead of hiding them
-* change my mind when the evidence earns it
-* leave myself able to understand the project when I return later
+**Me**  
+I set direction, make architecture decisions, run experiments, decide what gets accepted, and keep responsibility for the final result.
 
-I'm still learning.
+**ChatGPT**  
+My main thinking and orchestration partner. We work through ideas, research, experiment design, architecture, results, project continuity, and documentation together.
 
-That's not a disclaimer. That's the point.
+**Codex, Claude, and other coding agents**  
+Usually implementation, debugging, review, repository work, or another approach when I want a second set of eyes.
 
-## Around Here
+**Local models**  
+These are increasingly becoming parts of the systems themselves. I care less about whether they're the biggest model available and more about whether they have the right job, context, and tools.
 
-This GitHub is less a portfolio than a trail of things I'm learning to build.
+**Jev, Laya, embeddings, rerankers, and other smaller models**  
+Specialists. Relevance, ranking, conflict detection, routing, or other narrow judgments where a full general-purpose model would be overkill.
 
-Some repositories are polished enough to share.
+None of those roles are absolute.
 
-Some are experiments.
+Sometimes the coding agent helps with architecture. Sometimes ChatGPT writes code. Sometimes a local model surprises me.
 
-Some are snapshots of ideas that have already evolved beyond them.
+The point is mostly that I don't expect every model to be good at everything.
 
-If something here is useful or interesting to you, feel free to explore.
+---
 
-## Links
+## Things I'm Building
 
-* **NQL Systems:** https://github.com/NQL-Systems/
-* **Website:** https://zerolxgic.github.io/
-* **X:** https://x.com/ZerriusVale
+### ZOMAH
+
+**Zerrius's Obviously Minimal Agent Harness**
+
+The name started as a joke.
+
+The project did not stay quite as minimal.
+
+ZOMAH is where a lot of my ideas around agents, local models, state, tools, retrieval, authority, and deterministic boundaries are starting to meet.
+
+The goal is to give capable AI workers useful freedom while keeping important system truth and authority somewhere more reliable than the model's context window.
+
+[Explore ZOMAH](https://github.com/Zerolxgic/ZOMAH)
+
+---
+
+### Laya Decision Benchmark
+
+This was one of the first private experiments I decided to clean up and put out publicly.
+
+I tested the open-weight Laya decision model through several rounds of benchmarks, holdouts, polarity tests, distribution shifts, and eventually real agent-system inputs.
+
+The failures ended up teaching me more than the good scores did.
+
+As the tests got closer to the real system, the model's weaknesses became much easier to see, and that helped me figure out where it was actually useful.
+
+The repo also documents how ChatGPT and I worked on the research together instead of hiding the AI side of it.
+
+[Explore the Laya Decision Benchmark](https://github.com/Zerolxgic/laya-decision-benchmark)
+
+---
+
+### Omarchy Talks
+
+A collection of experiments around Linux, local AI, tooling, and learning how my own machine works instead of treating it like a black box.
+
+[Explore Omarchy Talks](https://github.com/Zerolxgic/Omarchy-Talks)
+
+---
+
+## Where I Came From
+
+My day job is facilities maintenance.
+
+The more I learn about software, the more I realize that background probably affects how I approach this stuff.
+
+If something breaks, I want to know why.
+
+If I fix it, I want to know whether I actually fixed it.
+
+If a machine says one thing and reality says another, reality wins.
+
+I also don't like being responsible for systems I can't inspect.
+
+None of that started as a software philosophy. It's just how I've always approached equipment and systems, and it followed me here.
+
+I started using AI because it let me do things I couldn't do before.
+
+Then I got curious about the tools themselves, which led into agents, memory, local models, orchestration, evaluation, and eventually all the boring deterministic pieces underneath them.
+
+Funny enough, those boring pieces keep turning out to be some of the most interesting parts.
+
+I'm still following the thread.
+
+---
+
+## AI Is Part of the Story
+
+AI is a huge part of how I build.
+
+I'm not embarrassed by that.
+
+It would be dishonest to act like I sat alone and hand-wrote every line from first principles, because I didn't.
+
+I work with models constantly, and I learn a lot from doing it.
+
+My job in that relationship is to understand enough to make decisions, question bad output, test what matters, and stay responsible for what gets built.
+
+If AI disappeared tomorrow?
+
+I'd probably go back to being pretty average.
+
+Just considerably more knowledgeable than I was before. 😂
+
+I'll take that trade.
+
+---
+
+## Why This GitHub Exists
+
+For a long time I kept a lot of this work private because I didn't think I knew enough yet to put it out there.
+
+I'm trying to stop doing that.
+
+This GitHub is becoming the public trail of what I'm building, what works, what doesn't, and what I learn along the way.
+
+Some of it will hold up.
+
+Some of it probably won't.
+
+That's okay.
+
+I'd rather leave the trail.
+
+If you're interested in AI systems, agents, local models, evaluation, human-AI collaboration, or learning complicated things by building them, you'll probably find something around here worth poking at.
+
+---
+
+### Elsewhere
+
+[Website](https://zerolxgic.github.io/) · [X / Twitter](https://x.com/ZerriusVale)
+
 
 
 
