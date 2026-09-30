@@ -95,9 +95,9 @@ The point is mostly that I don't expect every model to be good at everything.
 
 ## Current Projects
 
-[ZOMAH](https://github.com/Zerolxgic/ZOMAH)
+[![ZOMAH](https://github-readme-stats.vercel.app/api/pin/?username=Zerolxgic&repo=ZOMAH)](https://github.com/Zerolxgic/ZOMAH)
 
-[Laya Decision Benchmark](https://github.com/Zerolxgic/laya-decision-benchmark)
+[![Laya Decision Benchmark](https://github-readme-stats.vercel.app/api/pin/?username=Zerolxgic&repo=laya-decision-benchmark)](https://github.com/Zerolxgic/laya-decision-benchmark)
 
 [Omarchy Talks](https://github.com/Zerolxgic/Omarchy-Talks)
 
